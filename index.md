@@ -69,7 +69,7 @@
 <li aria-level="1"><span style="color: #00ff00;"><strong>79 to 81 CE</strong></span></li>
 </ul>
 <p style="text-align: left;"><br /><br /><br /><br /></p>
-<p><strong>Grog: Early Roman Empire-</strong></p>
+<p><strong>Early Roman Empire-</strong></p>
 <ul>
 <li aria-level="1"><span style="color: #ff0000;"><strong>Who ended up leading Rome after the death of Caesar<span style="color: #00ff00;">?</span></strong></span></li>
 </ul>
